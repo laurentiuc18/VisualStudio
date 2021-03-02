@@ -1,0 +1,10 @@
+C:\Users\laure\source\repos\MayorMenor\MayorMenor\obj\Debug\MayorMenor.csprojAssemblyReference.cache
+C:\Users\laure\source\repos\MayorMenor\MayorMenor\obj\Debug\MayorMenor.Form1.resources
+C:\Users\laure\source\repos\MayorMenor\MayorMenor\obj\Debug\MayorMenor.Properties.Resources.resources
+C:\Users\laure\source\repos\MayorMenor\MayorMenor\obj\Debug\MayorMenor.csproj.GenerateResource.cache
+C:\Users\laure\source\repos\MayorMenor\MayorMenor\obj\Debug\MayorMenor.csproj.CoreCompileInputs.cache
+C:\Users\laure\source\repos\MayorMenor\MayorMenor\bin\Debug\MayorMenor.exe.config
+C:\Users\laure\source\repos\MayorMenor\MayorMenor\bin\Debug\MayorMenor.exe
+C:\Users\laure\source\repos\MayorMenor\MayorMenor\bin\Debug\MayorMenor.pdb
+C:\Users\laure\source\repos\MayorMenor\MayorMenor\obj\Debug\MayorMenor.exe
+C:\Users\laure\source\repos\MayorMenor\MayorMenor\obj\Debug\MayorMenor.pdb

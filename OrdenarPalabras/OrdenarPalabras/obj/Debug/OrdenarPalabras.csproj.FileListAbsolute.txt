@@ -1,0 +1,10 @@
+C:\Users\DAM2\source\repos\OrdenarPalabras\OrdenarPalabras\bin\Debug\OrdenarPalabras.exe.config
+C:\Users\DAM2\source\repos\OrdenarPalabras\OrdenarPalabras\bin\Debug\OrdenarPalabras.exe
+C:\Users\DAM2\source\repos\OrdenarPalabras\OrdenarPalabras\bin\Debug\OrdenarPalabras.pdb
+C:\Users\DAM2\source\repos\OrdenarPalabras\OrdenarPalabras\obj\Debug\OrdenarPalabras.csprojAssemblyReference.cache
+C:\Users\DAM2\source\repos\OrdenarPalabras\OrdenarPalabras\obj\Debug\OrdenarPalabras.Form1.resources
+C:\Users\DAM2\source\repos\OrdenarPalabras\OrdenarPalabras\obj\Debug\OrdenarPalabras.Properties.Resources.resources
+C:\Users\DAM2\source\repos\OrdenarPalabras\OrdenarPalabras\obj\Debug\OrdenarPalabras.csproj.GenerateResource.cache
+C:\Users\DAM2\source\repos\OrdenarPalabras\OrdenarPalabras\obj\Debug\OrdenarPalabras.csproj.CoreCompileInputs.cache
+C:\Users\DAM2\source\repos\OrdenarPalabras\OrdenarPalabras\obj\Debug\OrdenarPalabras.exe
+C:\Users\DAM2\source\repos\OrdenarPalabras\OrdenarPalabras\obj\Debug\OrdenarPalabras.pdb

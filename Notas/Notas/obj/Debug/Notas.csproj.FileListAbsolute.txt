@@ -1,0 +1,10 @@
+C:\Users\laure\source\repos\Notas\Notas\bin\Debug\Notas.exe.config
+C:\Users\laure\source\repos\Notas\Notas\bin\Debug\Notas.exe
+C:\Users\laure\source\repos\Notas\Notas\bin\Debug\Notas.pdb
+C:\Users\laure\source\repos\Notas\Notas\obj\Debug\Notas.csprojAssemblyReference.cache
+C:\Users\laure\source\repos\Notas\Notas\obj\Debug\Notas.Form1.resources
+C:\Users\laure\source\repos\Notas\Notas\obj\Debug\Notas.Properties.Resources.resources
+C:\Users\laure\source\repos\Notas\Notas\obj\Debug\Notas.csproj.GenerateResource.cache
+C:\Users\laure\source\repos\Notas\Notas\obj\Debug\Notas.csproj.CoreCompileInputs.cache
+C:\Users\laure\source\repos\Notas\Notas\obj\Debug\Notas.exe
+C:\Users\laure\source\repos\Notas\Notas\obj\Debug\Notas.pdb

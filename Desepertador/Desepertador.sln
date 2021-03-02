@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desepertador", "Desepertador\Desepertador.csproj", "{361E7745-10E0-4872-9ABC-152AF238D662}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cancion", "Cancion", "{64883243-AE6C-48A7-819A-5642DFE18253}"
+	ProjectSection(SolutionItems) = preProject
+		Desepertador\Alarm01.wav = Desepertador\Alarm01.wav
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361E7745-10E0-4872-9ABC-152AF238D662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361E7745-10E0-4872-9ABC-152AF238D662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361E7745-10E0-4872-9ABC-152AF238D662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361E7745-10E0-4872-9ABC-152AF238D662}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A1376B4-484C-4A0C-9EB6-8AD59F3760A1}
+	EndGlobalSection
+EndGlobal
